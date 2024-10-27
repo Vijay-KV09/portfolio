@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2510f1db.css",
+    "main.js": "/portfolio/static/js/main.de211d95.js",
+    "static/media/github.png": "/portfolio/static/media/github.41372d959a4286d6c71b.png",
+    "static/media/Javascript.png": "/portfolio/static/media/Javascript.dec9cc506e72c01b5ae5.png",
+    "static/media/mongo-db.png": "/portfolio/static/media/mongo-db.8a1a12db5e8273b3ad0c.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.ffc7f6430c543f35c77b.png",
+    "static/media/python.png": "/portfolio/static/media/python.0838c2649218ac60bcc6.png",
+    "static/media/html.png": "/portfolio/static/media/html.013ab889505383a0f716.png",
+    "static/media/aws.jpeg": "/portfolio/static/media/aws.e018e891f8210722513f.jpeg",
+    "static/media/ansible.jpeg": "/portfolio/static/media/ansible.f1f2d2484398f7bd98b5.jpeg",
+    "static/media/css.png": "/portfolio/static/media/css.45c8ae4607ab8a2ceb61.png",
+    "static/media/profile_image.jpg": "/portfolio/static/media/profile_image.92bbeceb2a0a39361ebe.jpg",
+    "static/media/git.png": "/portfolio/static/media/git.0bab2323111c81fdc8b0.png",
+    "static/media/docker.png": "/portfolio/static/media/docker.cfe145f3b821fb410b73.png",
+    "static/media/linux.jpeg": "/portfolio/static/media/linux.c8fa7bcf7b4df21b49e6.jpeg",
+    "static/media/resume.png": "/portfolio/static/media/resume.e0af568e0b3ef0e7f6ee.png",
+    "static/media/project2.jpeg": "/portfolio/static/media/project2.0a90237ac0f68fccf71c.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.2510f1db.css.map": "/portfolio/static/css/main.2510f1db.css.map",
+    "main.de211d95.js.map": "/portfolio/static/js/main.de211d95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2510f1db.css",
+    "static/js/main.de211d95.js"
+  ]
+}
