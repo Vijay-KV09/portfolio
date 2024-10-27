@@ -1,0 +1,44 @@
+
+.resume{
+    width:100vw;
+    height:100vh;
+    display: flex;
+}
+
+.personal img{
+    width: 300px;
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 50px;
+    object-fit: contain;
+    background-color: white;
+}
+
+.personal button{
+    width:200px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    border: none;
+    font-size: 16px;
+    border-radius: 2px;
+    box-shadow: 3px 3px 4px black;
+}
+
+.personal button:hover{
+    cursor: pointer;
+    background-color: #069fec;
+    transition: all 5s ease background-color;
+    box-shadow: 5px 5px 5px black;
+    transform: scale(1.0);
+    color: white;
+}
+
+.personal{
+    width:400px;
+    overflow:visible;
+    display: grid;
+    height:300px;
+    background-color: white;
+    margin: 60px 180px 20px 50px;
+    box-shadow: 8px 8px 20px violet;
+}

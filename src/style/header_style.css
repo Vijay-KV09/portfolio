@@ -1,0 +1,25 @@
+.header{
+    width: 100vw;
+    height:80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:10px;
+}
+
+.header .components{
+    margin:30px;
+    display: flex;
+    transform: translate(-60%,-5%);
+}
+
+span{
+    transform: translate(90%,-5%);
+}
+
+#links{
+    margin:10px;
+    text-decoration: none;
+    color: grey;
+    font-weight: 900px;
+}

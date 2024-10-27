@@ -1,0 +1,55 @@
+.about{
+    background-color: white;;
+    font-family: 'Courier New', Courier, monospace;
+    font-family: Karla;
+}
+
+.me {
+    display: flex;
+    flex-direction: column;
+    color:black;
+    margin: 0 20px 0 10px;
+}
+
+.me p {
+    text-align: justify;
+    margin-bottom: 15px;
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+.skills {
+    width: 80vw;
+    height: 80vh;
+    margin-left: 80px;
+    color:black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.skillset {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); 
+    gap: 20px;                   
+    width: 100%;                 
+    max-width: 500px;            
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.skillset div{
+    display: flex;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin:2px 2px 2px 2px;
+    align-items: center;
+    justify-content: center;
+    width:100px;
+    height:50px;
+    color:black;
+    background-color: rgba(255, 255, 255, 0.532);
+    margin-left:10px;
+    box-shadow: 3px 3px 2px 2px grey;
+    border-radius:30px;
+}

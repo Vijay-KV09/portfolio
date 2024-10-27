@@ -1,0 +1,32 @@
+.main {
+    width: 100vw;
+    height: 30vh;
+    box-sizing: border-box;
+    padding: 10px;
+    overflow: hidden; 
+    position: relative; 
+}
+
+.main h2{
+    position: absolute;
+    top: 10%; 
+    left: 50%; 
+    font-size: 30px;
+    transform: translate(-50%, -50%); 
+    white-space: nowrap; 
+    margin-bottom: 100px;
+}
+
+.main p {
+    width: 70%; 
+    height:auto;
+    position:relative;
+    transform: translate(0%,60%);
+    max-width: 100%; 
+    margin: 20px auto 0; 
+    overflow: auto; 
+    padding: 10px; 
+    box-sizing: border-box;
+    font-size: 17px;
+    font-style:oblique;
+}

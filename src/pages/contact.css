@@ -1,0 +1,104 @@
+.contact{
+    margin:10px;
+    width:98vw;
+    height:99vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+form button{
+    background-color: #008ffc; 
+    width:120px;
+    height:35px;
+    margin:0px 10px 10px 10px;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    opacity: 0.9;
+}
+
+span{
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+}
+
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: #6b07b3;
+    transition: all 4s ease background-color;
+    box-shadow: 5px 5px 5px black;
+    transform: scale(1.0);
+}
+
+form input,textarea{
+    margin: 20px 20px 15px 10px;
+    width:150px;
+    height:20px;
+    outline-offset: 0cap;
+    border-radius: none;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.getint{
+    margin:20px 0px 20px 20px;
+    width:30vw;
+    height:60vh;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 4px 4px 10px black;
+    overflow: hidden;
+}
+
+
+.contactus{
+    width:20vw;
+    height:45vh;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    overflow: hidden;
+    color:white;
+    background-color: #008ffc;
+}
+
+.contactus div{
+    display: flex;
+    margin-top: 30px;
+    margin-left:15px;
+}
+
+.contactus a{
+    margin-left: 3px;
+    text-decoration: none;
+    color: white;
+}
+
+.contactus a:hover{
+    background: white;
+    color: black;
+}
+
+.contactus:hover{
+    box-shadow: 4px 4px 8px red;
+}
+
+h3{
+    margin: 40px 0px 0px 20px;
+    height:25px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.contactus{
+    box-shadow: 4px 4px 4px black;
+}
