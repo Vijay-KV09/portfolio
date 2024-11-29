@@ -19,7 +19,7 @@ const About = () => {
                         </p>
                     </div>
                     <div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quas temporibus dolor doloremque non facilis dolorum possimus dicta maiores ratione.</p>
+                        <p>I am a Computer Science and Engineering graduate with a specialization in Big Data, driven by a passion for solving complex challenges. My expertise spans DevOps, Cloud Computing, and Full-Stack Development, enabling me to build scalable, high-performance solutions</p>
                     </div>
                 </div>
             </div>
