@@ -122,7 +122,7 @@ const Navbar = () => {
             </li>
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#000080]'>
               <a className='flex justify-between items-center w-full text-gray-300'
-               href='https://github.com/Vijay-KV09/resume/blob/main/Resume%20(3).pdf' download target='_blank'>Resume <BsFillPersonLinesFill size={30}/></a>
+               href='https://github.com/Vijay-KV09/resume/blob/main/Resume1.pdf' download target='_blank'>Resume <BsFillPersonLinesFill size={30}/></a>
             </li>
           </ul>
         </div>
